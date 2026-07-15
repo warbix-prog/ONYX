@@ -30,4 +30,12 @@ Rendez-vous dans la section **[Releases](https://github.com/warbix-prog/ONYX/rel
 
 ---
 
+## Soutenir le projet
+
+Si vous aimez ONYX et souhaitez soutenir le développement, vous pouvez nous offrir un café :
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/nanico)
+
+---
+
 *Pour signaler un bug ou une source cassée, ouvrez une [Issue](https://github.com/warbix-prog/ONYX/issues).*
