@@ -36,6 +36,15 @@ Rendez-vous dans la section **[Releases](https://github.com/warbix-prog/ONYX/rel
 
 ---
 
+## Communauté
+
+Rejoignez la communauté pour les annonces de mise à jour, l'entraide et le signalement des sources cassées :
+
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/A3rRvz4UJ)
+[![Telegram](https://img.shields.io/badge/Telegram-Rejoindre-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/+VcXqW4DA1w1lNTg0)
+
+---
+
 ## Soutenir le projet
 
 Si vous aimez ONYX et souhaitez soutenir le développement, vous pouvez nous offrir un café :
