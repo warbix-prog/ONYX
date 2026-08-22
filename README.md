@@ -2,6 +2,12 @@
 
 **Application de streaming Android — Mobile + TV (Android TV / Chromecast)**
 
+## Guide d'utilisation
+
+[![Télécharger le guide](https://img.shields.io/badge/Guide%20complet-T%C3%A9l%C3%A9charger%20le%20PDF-e5342b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/warbix-prog/ONYX/raw/main/tuto/ONYX_Guide_complet.pdf)
+
+12 pages en images : choisir sa source, le lecteur et les serveurs, la TV / IPTV, la radio et la musique, les favoris et les profils, les réglages et le dépannage.
+
 ---
 
 ## Télécharger
